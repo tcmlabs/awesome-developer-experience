@@ -16,3 +16,8 @@ Escape from localhost while in development mode. Obvious security risks in produ
   * Use-case: you want to automatically fix lockfile conflicts during git merge / rebase operations.
 * [rebase-editor](https://www.npmjs.com/package/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
   * Use-case: you've heard of `git rebase` and want a convenient way to do it from the terminal, without learning vim.
+
+## Continuous delivery
+
+* [Humanitec](https://humanitec.com) - Continuous Delivery API for Kubernetes-ready applications.
+  * Use-case: you want to manage environments (e.g., dev, staging, feature branch, QA) for your Kubernetes applications with one state-of-the-art UI and open API.
