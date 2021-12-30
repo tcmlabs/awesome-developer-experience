@@ -12,6 +12,8 @@ Escape from localhost while in development mode. Obvious security risks in produ
 
 ## Version control
 
+* [difftastic](https://github.com/Wilfred/difftastic) - Difftastic is an experimental structured diff tool that compares files based on their syntax.
+  * Use-case: you want less noise when displaying git diffs in the terminal
 * [npm-merge-driver](https://www.npmjs.com/package/npm-merge-driver) - Automatically merge conflits in `package-lock.json` / `yarn.lock` files from JavaScript package managers (npm, yarn) by teaching git how to it.
   * Use-case: you want to automatically fix lockfile conflicts during git merge / rebase operations.
 * [rebase-editor](https://www.npmjs.com/package/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
